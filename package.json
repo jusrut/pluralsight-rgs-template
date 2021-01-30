@@ -22,7 +22,7 @@
     "webpack-cli": "^4.4.0"
   },
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
+    "@babel/eslint-parser": "^7.12.1",
     "eslint": "^7.18.0",
     "eslint-plugin-react": "^7.22.0",
     "nodemon": "^2.0.7"
